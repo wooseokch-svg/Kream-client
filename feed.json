@@ -1,0 +1,25 @@
+{
+  "notices": [],
+  "releases": [
+    {
+      "version": "1.0.0",
+      "date": "2026-10-08",
+      "notes": [
+        "첫 출시",
+        "HUD 모듈 12종 (채도 포함)",
+        "HUD 편집 · 자동 업데이트 · 공지"
+      ]
+    }
+  ],
+  "latest": {
+    "version": "1.0.0",
+    "dll": {
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.0.0/kream.dll",
+      "sha256": "c544b13d76dc64020acd029eed8c60441b70fee7fbcfc22cfb1f4475f42d6882"
+    },
+    "launcher": {
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.0.0/KreamLauncher.exe",
+      "sha256": "2f198abb1492eecff86cc34c00b8bd1a7c8b62fe53a241db566efb290051dc5b"
+    }
+  }
+}
