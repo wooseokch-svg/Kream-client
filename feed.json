@@ -2,6 +2,14 @@
   "notices": [],
   "releases": [
     {
+      "version": "1.1.2",
+      "date": "2026-10-09",
+      "notes": [
+        "채도: 0 = 흑백 · 1 = 기본 · 1보다 크면 더 선명하게 (최대 3배)",
+        "프리룩 모듈 추가 (F 키를 누르는 동안 카메라만 회전)"
+      ]
+    },
+    {
       "version": "1.1.1",
       "date": "2026-10-09",
       "notes": [
@@ -27,14 +35,14 @@
     }
   ],
   "latest": {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "dll": {
-      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.1.1/kream.dll",
-      "sha256": "d3f84ce77543f1decea12c935050d8be6b3bb35fa19c3b361b83e1f156d1556c"
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.1.2/kream.dll",
+      "sha256": "6517e810b4c3f768565d9d754319798671d86bf6131f5f10edd9d906e09f600f"
     },
     "launcher": {
-      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.1.1/KreamLauncher.exe",
-      "sha256": "d1d146d5be3730be7f1bca02a25af21bd0431177cac51a45666577ee56bc56a3"
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.1.2/KreamLauncher.exe",
+      "sha256": "439dde7b38ccbe9b2cfb26c71d9b86e86d7fa51d665d8ecf6765851281f47b87"
     }
   }
 }
