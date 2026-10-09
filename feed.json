@@ -2,6 +2,15 @@
   "notices": [],
   "releases": [
     {
+      "version": "1.2.4",
+      "date": "2026-10-10",
+      "notes": [
+        "업데이트를 받는 동안 런처 아래에 진행 막대(%) 표시",
+        "상단에 실행 중인 게임 버전 표시",
+        "정보 탭에 지원 게임 버전 안내 (모든 버전 실행)"
+      ]
+    },
+    {
       "version": "1.2.3",
       "date": "2026-10-10",
       "notes": [
@@ -70,14 +79,14 @@
     }
   ],
   "latest": {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "dll": {
-      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.3/kream.dll",
-      "sha256": "aa248475b603dd1cbf9812761c5e633f6bcaff96c335f10398cfdb140d843161"
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.4/kream.dll",
+      "sha256": "ec3d6e45509b194cb5007524903f8add1904e84ed835e94da6412f92c9697097"
     },
     "launcher": {
-      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.3/KreamLauncher.exe",
-      "sha256": "43b2df24736b229a3cca72171b393a580cdf6f3ef51e032f4e220a3824f918da"
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.4/KreamLauncher.exe",
+      "sha256": "c3a92d36a3897043ad9877eff76291bf770c26d214afa27dc89c6384def07365"
     }
   }
 }
