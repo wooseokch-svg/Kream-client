@@ -2,6 +2,13 @@
   "notices": [],
   "releases": [
     {
+      "version": "1.1.1",
+      "date": "2026-10-09",
+      "notes": [
+        "게임을 켜 둔 상태에서 업데이트가 실패로 끝나던 문제 수정"
+      ]
+    },
+    {
       "version": "1.1.0",
       "date": "2026-10-08",
       "notes": [
@@ -20,14 +27,14 @@
     }
   ],
   "latest": {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "dll": {
-      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.1.0/kream.dll",
-      "sha256": "ef4150bcef8377811eb27146729b65ce939049f841fd64222501379a9327e16c"
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.1.1/kream.dll",
+      "sha256": "d3f84ce77543f1decea12c935050d8be6b3bb35fa19c3b361b83e1f156d1556c"
     },
     "launcher": {
-      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.1.0/KreamLauncher.exe",
-      "sha256": "5c02269e206ca512ca4a63cd47ed8fa5c00687dfbb8f4c4eb0280abac7340f5f"
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.1.1/KreamLauncher.exe",
+      "sha256": "d1d146d5be3730be7f1bca02a25af21bd0431177cac51a45666577ee56bc56a3"
     }
   }
 }
