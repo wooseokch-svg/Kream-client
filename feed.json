@@ -2,6 +2,14 @@
   "notices": [],
   "releases": [
     {
+      "version": "1.2.1",
+      "date": "2026-10-09",
+      "notes": [
+        "게임 1.26.5 등 표에 없는 새 패치 버전도 게임 연동 기능 사용 (1.26.3 데이터로 실행)",
+        "버전이 달라도 게임이 꺼지지 않도록 안전 검사 추가"
+      ]
+    },
+    {
       "version": "1.2.0",
       "date": "2026-10-09",
       "notes": [
@@ -44,14 +52,14 @@
     }
   ],
   "latest": {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "dll": {
-      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.0/kream.dll",
-      "sha256": "c2234e40f0d07e784c5e9c89d847df8b3a0cc30bd9d6cb932f2f3947945b987a"
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.1/kream.dll",
+      "sha256": "829ea72317accbf4058d87844c34a898959b7d1e14fb239bf1d92331eb82c9f0"
     },
     "launcher": {
-      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.0/KreamLauncher.exe",
-      "sha256": "962434a089360efa17dc1a321f4aeb0acf1269b822aab9cb75d33dcddac45e7c"
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.1/KreamLauncher.exe",
+      "sha256": "de39632162e57232313f5f9ee55f77ac8b06bbc6b96667eb663cad67f4683020"
     }
   }
 }
