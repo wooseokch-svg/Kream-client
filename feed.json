@@ -2,6 +2,15 @@
   "notices": [],
   "releases": [
     {
+      "version": "1.2.3",
+      "date": "2026-10-10",
+      "notes": [
+        "게임을 끄지 않고도 kream 이 새 버전으로 자동으로 꺼졌다 켜짐 (다음 업데이트부터)",
+        "런처 업데이트 버튼: 자동 재시작, 백신 잠금 대비 재시도",
+        "kream.log 이어서 기록"
+      ]
+    },
+    {
       "version": "1.2.2",
       "date": "2026-10-09",
       "notes": [
@@ -61,14 +70,14 @@
     }
   ],
   "latest": {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "dll": {
-      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.2/kream.dll",
-      "sha256": "ec4e45930c32e60a54883d426db516a051305553a4f054bbc2db655c2b9d08d0"
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.3/kream.dll",
+      "sha256": "aa248475b603dd1cbf9812761c5e633f6bcaff96c335f10398cfdb140d843161"
     },
     "launcher": {
-      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.2/KreamLauncher.exe",
-      "sha256": "4e1372a56099cdd448b0980469675e8d1243b1748928d8045e17ee886a9e2c0b"
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.3/KreamLauncher.exe",
+      "sha256": "43b2df24736b229a3cca72171b393a580cdf6f3ef51e032f4e220a3824f918da"
     }
   }
 }
