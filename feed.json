@@ -2,6 +2,15 @@
   "notices": [],
   "releases": [
     {
+      "version": "1.2.5",
+      "date": "2026-10-10",
+      "notes": [
+        "게임에 들어가면 튕기던 문제 수정 (다른 버전 데이터로 실행할 때 게임 함수를 번호로 부르지 않음)",
+        "켜진 모듈의 기능만 게임에 연결",
+        "튕김 방지: 튕긴 기능을 기록하고 다음부터 그 기능만 꺼 둠"
+      ]
+    },
+    {
       "version": "1.2.4",
       "date": "2026-10-10",
       "notes": [
@@ -79,14 +88,14 @@
     }
   ],
   "latest": {
-    "version": "1.2.4",
+    "version": "1.2.5",
     "dll": {
-      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.4/kream.dll",
-      "sha256": "ec3d6e45509b194cb5007524903f8add1904e84ed835e94da6412f92c9697097"
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.5/kream.dll",
+      "sha256": "5ba007a4f7bbc6c313055589c53bef2a13fb63b7e01452ee4802bdbcc6bc094c"
     },
     "launcher": {
-      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.4/KreamLauncher.exe",
-      "sha256": "c3a92d36a3897043ad9877eff76291bf770c26d214afa27dc89c6384def07365"
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.5/KreamLauncher.exe",
+      "sha256": "3dca504d8d06e741cec44e5d2b640f57b24e53088a9021b1fe7504eb84d3ea34"
     }
   }
 }
