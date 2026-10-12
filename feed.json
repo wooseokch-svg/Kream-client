@@ -2,6 +2,15 @@
   "notices": [],
   "releases": [
     {
+      "version": "1.3.0",
+      "date": "2026-10-12",
+      "notes": [
+        "자연 체인저: 시간·날씨(비·눈·번개)·구름·하늘 색을 한 모듈로, 구름 추가",
+        "F3: 게임 시각·월드 이름·GPU 추가",
+        "웨이포인트: 설정 화면에서 목록·이름 바꾸기·숨기기·삭제, 월드별 표시"
+      ]
+    },
+    {
       "version": "1.2.5",
       "date": "2026-10-10",
       "notes": [
@@ -88,14 +97,14 @@
     }
   ],
   "latest": {
-    "version": "1.2.5",
+    "version": "1.3.0",
     "dll": {
-      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.5/kream.dll",
-      "sha256": "5ba007a4f7bbc6c313055589c53bef2a13fb63b7e01452ee4802bdbcc6bc094c"
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.3.0/kream.dll",
+      "sha256": "827b8eb8faed18d130e5ca69784e95bc43a0ef0b361dc4fbc5ad42135f185be5"
     },
     "launcher": {
-      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.2.5/KreamLauncher.exe",
-      "sha256": "3dca504d8d06e741cec44e5d2b640f57b24e53088a9021b1fe7504eb84d3ea34"
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.3.0/KreamLauncher.exe",
+      "sha256": "c959773e15ee26205eb081c9482e50de1183d73d59480b0832e300cca9101ab4"
     }
   }
 }
