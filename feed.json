@@ -2,6 +2,15 @@
   "notices": [],
   "releases": [
     {
+      "version": "1.3.1",
+      "date": "2026-10-12",
+      "notes": [
+        "런처 화면을 둥글고 부드럽게 (알약 모양 메뉴·버튼, 큰 둥근 카드, 부드러운 애니메이션)",
+        "제목·메뉴·문구에 둥근 한글 글꼴(주아)",
+        "사이드바를 창 벽에 붙임"
+      ]
+    },
+    {
       "version": "1.3.0",
       "date": "2026-10-12",
       "notes": [
@@ -97,14 +106,14 @@
     }
   ],
   "latest": {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "dll": {
-      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.3.0/kream.dll",
-      "sha256": "827b8eb8faed18d130e5ca69784e95bc43a0ef0b361dc4fbc5ad42135f185be5"
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.3.1/kream.dll",
+      "sha256": "2c2d271301b26ffdfb89bb5fd602fe5f2a24de027a9ba6761c6b57887d561435"
     },
     "launcher": {
-      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.3.0/KreamLauncher.exe",
-      "sha256": "c959773e15ee26205eb081c9482e50de1183d73d59480b0832e300cca9101ab4"
+      "url": "https://github.com/wooseokch-svg/Kream-client/releases/download/v1.3.1/KreamLauncher.exe",
+      "sha256": "b9fb86ab7a1774ee0906d2b8003e869c6ecea44beacefc891aae5c429dfc62cc"
     }
   }
 }
